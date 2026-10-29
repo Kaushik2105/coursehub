@@ -1,5 +1,5 @@
 # CourseHub — Student Course Management System
-> **A Relational Database System (RDBMS) for Academic Administration, Enrollment Tracking, and Fee Management.**
+> **A Relational Database System (RDBMS) for Academic Administration named COURSEHUB, Enrollment Tracking, and Fee Management.**
 
 ---
 

@@ -292,7 +292,7 @@ WHERE Amount > 9000;
 
 SELECT * FROM HighValuePayments;
 
--- Q26. Create a view for total revenue per payment method
+-- Q26. Create a view for total revenue per payment method for courshub
 CREATE VIEW RevenueSummary AS
 SELECT Payment_Method, SUM(Amount) AS Total_Revenue
 FROM Payments 
